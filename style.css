@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body {
+    margin: 0;
+    background-image: linear-gradient(to bottom, black, green);
+}
+
+h1, h2, h4 {
+    text-shadow: 0 0 15px blue;
+    color: white;
+    text-align: center;
+}
